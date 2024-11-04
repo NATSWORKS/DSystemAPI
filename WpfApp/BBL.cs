@@ -12,6 +12,7 @@ using WpfApp;
 //Business Logic Layer
 public class BBL
 {
+    //Configuração de conexão
     private readonly string _httpClient = "https://localhost:7199/api/v1/task";// URL da API ASP.NET
 
     #region CRUD
