@@ -7,12 +7,13 @@ namespace DSystemAPI.Structure
     {
         public DbSet<TaskModel> Tasks { get; set; }
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-             => optionsBuilder.UseNpgsql(
-                 "Server=localhost;" +
-                 "Port=5432;Database=taskDb" +
-                 "User Id=postgres;" +
-                 "Password=102030");*/
+        /*
+        ========================
+        OnConfiguring
+        ------------------------
+        Configuração de conexão.
+        ========================
+        */
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder.UseSqlServer(
          "Data Source=DESKTOP-QVNBIP4;" +
