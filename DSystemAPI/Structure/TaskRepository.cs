@@ -16,5 +16,26 @@ namespace DSystemAPI.Structure
         {
             return _context.Tasks.ToList();
         }
+
+        public TaskModel? GetById(int id)
+        {
+            return _context.Tasks.Find(id);
+        }
+
+        public void Update(TaskModel task)
+        {
+            _context.Tasks.Update(task);
+            _context.SaveChanges();
+        }
+
+        public void Delete(int id)
+        {
+            var task = _context.Tasks.Find(id);
+            if (task != null)
+            {
+                _context.Tasks.Remove(task);
+                _context.SaveChanges();
+            }
+        }
     }
 }

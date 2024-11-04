@@ -19,6 +19,7 @@
             <ComboBoxItem Content="Em progresso"/>
             <ComboBoxItem Content="Concluída"/>
         </ComboBox>
+        <Button x:Name="btnAddTarefa_Copy" Content="Editar Tarefa" HorizontalAlignment="Left" Margin="115,49,0,0" VerticalAlignment="Top" Background="#FF234892" Foreground="White" Width="100" Click="btnAddTarefa_Copy_Click"/>
 
     </Grid>
 </Window>

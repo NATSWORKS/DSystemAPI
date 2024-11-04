@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{24EC6D36-D299-425E-87F9-E55B2257376D}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\dsystemapi\\wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24EC6D36-D299-425E-87F9-E55B2257376D}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|c:\\users\\cliente\\source\\repos\\dsystemapi\\dsystemapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|solutionrelative:dsystemapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|c:\\users\\cliente\\source\\repos\\dsystemapi\\dsystemapi\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|solutionrelative:dsystemapi\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|c:\\users\\cliente\\source\\repos\\dsystemapi\\dsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|solutionrelative:dsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|c:\\users\\cliente\\source\\repos\\dsystemapi\\dsystemapi\\structure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0556E4-4856-4FAC-98F7-F9D05832A9D0}|DSystemAPI\\DSystemAPI.csproj|solutionrelative:dsystemapi\\structure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\WpfApp\\Window1.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\WpfApp\\Window1.xaml.cs",
-              "RelativeToolTip": "WpfApp\\Window1.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAlwDoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:17:49.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "DSystemAPI\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "DSystemAPI\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:13:14.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DSystemAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Program.cs",
-              "RelativeToolTip": "DSystemAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:10:55.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Structure\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "DSystemAPI\\Structure\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Structure\\TaskRepository.cs",
-              "RelativeToolTip": "DSystemAPI\\Structure\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:07:57.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskModel.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Model\\TaskModel.cs",
-              "RelativeDocumentMoniker": "DSystemAPI\\Model\\TaskModel.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DSystemAPI\\DSystemAPI\\Model\\TaskModel.cs",
-              "RelativeToolTip": "DSystemAPI\\Model\\TaskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:06:24.653Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

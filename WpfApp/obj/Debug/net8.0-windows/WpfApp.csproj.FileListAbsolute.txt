@@ -144,14 +144,10 @@ C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\bin\Debug\net8.0-windows\DSystem
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\bin\Debug\net8.0-windows\DSystemAPI.pdb
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\Window1.g.cs
-C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\Window2.g.cs
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\Window1.baml
-C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\Window2.baml
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
@@ -160,3 +156,9 @@ C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
 C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\WpfApp.sourcelink.json
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\RegisterFrm.g.cs
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\RegisterFrm.baml
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\UpdateFrm.g.cs
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\obj\Debug\net8.0-windows\UpdateFrm.baml
+C:\Users\Cliente\source\repos\DSystemAPI\WpfApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
